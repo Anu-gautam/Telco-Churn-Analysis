@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red?logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 > **Predicting customer churn for a telecom company using exploratory data analysis and machine learning — enabling proactive retention strategies.**
 
